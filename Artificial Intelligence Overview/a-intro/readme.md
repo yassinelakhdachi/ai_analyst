@@ -24,8 +24,7 @@ Generally, current AI is somewhere between strong and weak AI. The current most 
 
 In terms of scope, **Ray Kurzweil**, who is a futurist that is working for Google, identifies three levels of AI:
 
-+ **Artificial Narrow Intelligence (ANI)**
-    
++ **Artificial Narrow Intelligence (ANI)** : 
     ANI, which belongs to the weak AI school, refers to applying AI techniques to narrow problems. It focuses on a specific task. The strength of ANI is that it focuses on doing something extremely well, sometimes exceeding a human’s capabilities. ANI is a good fit for automating simple and repetitive tasks.
     
     Examples of ANI are bots and virtual assistants, such as **Siri**, **Microsoft Cortana**, Amazon book recommendations that are customized for each user, restaurant recommendations, weather updates, **[Watson DeepQA](https://www.notion.so/DATA-Eng-2b3ffc6d3b854bd787c3287fa3c278c8)**, and customer services chatbots for answering simple and repetitive customer inquiries.
