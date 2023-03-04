@@ -20,5 +20,20 @@ The second approach is not concerned about whether the AI systems display human-
 
 Generally, current AI is somewhere between strong and weak AI. The current most advanced AI research uses human reasoning as a model but the AI field has not modeled human reasoning yet. A good example of current AI is advanced natural language generation.
 
+## Evolution of Artificial Intelligence Types:
+
+In terms of scope, **Ray Kurzweil**, who is a futurist that is working for Google, identifies three levels of AI:
+
++ **Artificial Narrow Intelligence (ANI)**
+    
+    ANI, which belongs to the weak AI school, refers to applying AI techniques to narrow problems. It focuses on a specific task. The strength of ANI is that it focuses on doing something extremely well, sometimes exceeding a human’s capabilities. ANI is a good fit for automating simple and repetitive tasks.
+    
+    Examples of ANI are bots and virtual assistants, such as **Siri**, **Microsoft Cortana**, Amazon book recommendations that are customized for each user, restaurant recommendations, weather updates, **[Watson DeepQA](https://www.notion.so/DATA-Eng-2b3ffc6d3b854bd787c3287fa3c278c8)**, and customer services chatbots for answering simple and repetitive customer inquiries.
+    
++ **Artificial General Intelligence (AGI)**:
+        AGI belongs to the strong AI school. It refers to computer systems that exhibit capabilities of the human brain. AGI refers to systems or machines that can generally perform any intellectual task that a human can do.
+        
++ **Artificial Super Intelligence (ASI)**:
+        ASI refers to machines that surpass humans in general intelligence. Nick Bostrom, a leading AI thinker, in the paper [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence.html), defines ASI as “an intellect that is much smarter than the best human brains in practically every field, including scientific creativity, general wisdom and social skills.”. Super-intelligent machines might surpass the human brain in general intelligence.
 
 
