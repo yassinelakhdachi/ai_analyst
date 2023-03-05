@@ -35,7 +35,7 @@ In terms of scope, **Ray Kurzweil**, who is a futurist that is working for Googl
 + **Artificial Super Intelligence (ASI)**:
         ASI refers to machines that surpass humans in general intelligence. Nick Bostrom, a leading AI thinker, in the paper [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence.html), defines ASI as “an intellect that is much smarter than the best human brains in practically every field, including scientific creativity, general wisdom and social skills.”. Super-intelligent machines might surpass the human brain in general intelligence.
 
-##Integral Components of Artificial Intelligence Systems:
+## Integral Components of Artificial Intelligence Systems:
 
 Because AI is the science of simulating human thinking, it is possible to map the human thinking stages to the layers or components of AI systems: **Sensing**, **interpretation**, and **interacting**.
 
@@ -48,7 +48,7 @@ According to the type of predicted outcome, AI systems can be categorized into t
 + Deterministic systems
 + Probabilistic systems
 
-##Influencers of Artificial Intelligence:
+## Influencers of Artificial Intelligence:
 
 As explained earlier, AI is not a new concept, but the ideas behind it have started to materialize in the last years. This section explores some of the reasons why AI is taking off now.
 
