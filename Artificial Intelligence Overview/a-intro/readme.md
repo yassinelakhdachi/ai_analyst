@@ -70,4 +70,4 @@ Autonomous transportation refers to self-driven vehicles, such as **driverless c
 
 ![Robot](/Assets/robot.png)
 
-Home services and robots have already entered people’s homes in the form of vacuum cleaners and personal assistants. Better chips, low-cost 3D sensors, cloud-based machine learning, and advances in speech understanding will enhance future robots’ services and their interactions with people. Special purpose robots will clean offices, and enhance security. Drones are already being used to deliver packages.
+Home services and robots have already entered people’s homes in the form of vacuum cleaners and personal assistants. Better chips, low-cost 3D sensors, cloud-based machine learning, and advances in speech understanding will enhance future robots’ services and their interactions with people. Special purpose robots will clean offices, and enhance security. Drones are already being used to deliver .
