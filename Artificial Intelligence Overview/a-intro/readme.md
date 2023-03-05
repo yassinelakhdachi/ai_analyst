@@ -61,5 +61,13 @@ The following influencers of AI are described in this section:
 
 ## [Applications of Artificial Intelligence in Different Industries:](https://ai100.stanford.edu/)
 ### Transportation:
+
 ![Transportation](/Assets/Cyborg-Warfighter-UGV.png)
 
+Autonomous transportation refers to self-driven vehicles, such as **driverless cars** and **unmanned ground vehicles (UGVs)**, which are vehicles that can sense their environment and navigate without human input. Autonomous transportation will soon be commonplace, and likely include cars, trucks, flying vehicles, and personal robots.
+
+### Home Services and Robots:
+
+![Robot](/Assets/robot.png)
+
+Home services and robots have already entered people’s homes in the form of vacuum cleaners and personal assistants. Better chips, low-cost 3D sensors, cloud-based machine learning, and advances in speech understanding will enhance future robots’ services and their interactions with people. Special purpose robots will clean offices, and enhance security. Drones are already being used to deliver packages.
