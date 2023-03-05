@@ -59,4 +59,7 @@ The following influencers of AI are described in this section:
 + Cloud computing and APIs
 + Emergence of data science
 
+## [Applications of Artificial Intelligence in Different Industries:](https://ai100.stanford.edu/)
+### Transportation:
+![Transportation](/Assets/Cyborg-Warfighter-UGV.png)
 
