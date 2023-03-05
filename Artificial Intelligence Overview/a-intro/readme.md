@@ -35,17 +35,28 @@ In terms of scope, **Ray Kurzweil**, who is a futurist that is working for Googl
 + **Artificial Super Intelligence (ASI)**:
         ASI refers to machines that surpass humans in general intelligence. Nick Bostrom, a leading AI thinker, in the paper [How Long Before Superintelligence?](https://nickbostrom.com/superintelligence.html), defines ASI as “an intellect that is much smarter than the best human brains in practically every field, including scientific creativity, general wisdom and social skills.”. Super-intelligent machines might surpass the human brain in general intelligence.
 
-**Integral Components of Artificial Intelligence Systems:**
+##Integral Components of Artificial Intelligence Systems:
 
-Because AI is the science of simulating human thinking, it is possible to map the human thinking stages to the layers or components of AI systems: Sensing, interpretation, and interacting.
+Because AI is the science of simulating human thinking, it is possible to map the human thinking stages to the layers or components of AI systems: **Sensing**, **interpretation**, and **interacting**.
 
 Consumer-oriented AI systems such as Google Assistant, Siri, and Microsoft Cortana are adopting the three AI components or layers: Sensing, interpretation, and interacting.
 
-Many AI systems focus on prediction. To predict an outcome, AI systems use data mining or machine learning algorithms. There are different techniques that are used for prediction, such as regression analysis, which is a set of statistical processes for estimating the relationship among variables. AI systems build rules that can be used to predict the events of interest before they take place.
+Many AI systems focus on prediction. To predict an outcome, AI systems use **data mining** or **machine learning algorithms**. There are different techniques that are used for prediction, such as regression analysis, which is a set of statistical processes for estimating the relationship among variables. AI systems build rules that can be used to predict the events of interest before they take place.
 
 According to the type of predicted outcome, AI systems can be categorized into the following two categories:
 
 + Deterministic systems
 + Probabilistic systems
+
+##Influencers of Artificial Intelligence:
+
+As explained earlier, AI is not a new concept, but the ideas behind it have started to materialize in the last years. This section explores some of the reasons why AI is taking off now.
+
+The following influencers of AI are described in this section:
+
++ Big data: Structured data versus unstructured data
++ Advancements in computer processing speed and new chip architectures
++ Cloud computing and APIs
++ Emergence of data science
 
 
