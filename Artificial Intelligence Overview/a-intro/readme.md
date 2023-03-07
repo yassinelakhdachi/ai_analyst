@@ -88,6 +88,10 @@ Even when quality education will always require active engagement by human teach
 
 AI technologies are already in use in North America for border administration and law enforcement. By 2030, the government will rely heavily upon them, including improved cameras and drones for surveillance, algorithms to detect financial fraud, and predictive policing.
 
+### Entertainment:
+
+entertainment  .png
+
 
 
 
