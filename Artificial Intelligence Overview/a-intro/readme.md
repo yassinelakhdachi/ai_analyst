@@ -90,7 +90,7 @@ AI technologies are already in use in North America for border administration an
 
 ### Entertainment:
 
-entertainment  .png
+![entertainment](/Assets/entertainment.png)
 
 
 
