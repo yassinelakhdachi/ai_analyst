@@ -73,5 +73,11 @@ Autonomous transportation refers to self-driven vehicles, such as **driverless c
 Home services and robots have already entered people’s homes in the form of vacuum cleaners and personal assistants. Better chips, low-cost 3D sensors, cloud-based machine learning, and advances in speech understanding will enhance future robots’ services and their interactions with people. Special purpose robots will clean offices, and enhance security.
 
 ### Healthcare:
+
 ![Healthcare](/Assets/EHR.png)
+
 In healthcare, there has been a huge forward leap in collecting useful data from personal monitoring devices and mobile apps, **electronic health records (EHRs)** in clinical settings, surgical robots that assist with medical procedures, and service robots that support hospital operations. AI applications can generate new insights that speed up matching subjects to clinical studies, identify promising targets for research, reduce drug discovery times, and provide virtual assistance to patients.
+
+### Education:
+
+
