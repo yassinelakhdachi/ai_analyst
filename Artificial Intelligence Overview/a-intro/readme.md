@@ -80,4 +80,8 @@ In healthcare, there has been a huge forward leap in collecting useful data from
 
 ### Education:
 
+Even when quality education will always require active engagement by human teachers, AI can enhance education at all levels, especially by providing personalization at scale. Interactive machine tutors are now being matched to students for teaching science, math, language, and other disciplines. Natural Language Processing, machine learning, and crowdsourcing have boosted online learning and enabled teachers in higher education to multiply the size of their classrooms while addressing individual students’ learning needs and styles.
+
+
+
 
