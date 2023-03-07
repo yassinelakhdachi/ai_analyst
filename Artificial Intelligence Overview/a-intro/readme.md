@@ -74,3 +74,4 @@ Home services and robots have already entered people’s homes in the form of va
 
 ### Healthcare:
 ![Healthcare](/Assets/EHR.png)
+In healthcare, there has been a huge forward leap in collecting useful data from personal monitoring devices and mobile apps, **electronic health records (EHRs)** in clinical settings, surgical robots that assist with medical procedures, and service robots that support hospital operations. AI applications can generate new insights that speed up matching subjects to clinical studies, identify promising targets for research, reduce drug discovery times, and provide virtual assistance to patients.
