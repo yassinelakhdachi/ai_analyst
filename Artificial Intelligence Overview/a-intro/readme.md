@@ -123,6 +123,6 @@ NLP is found today in the following types of applications:
 - News digest, such as Yahoo
 
 - **Computer Vision (CV)**:
-    CV is the subfield of AI that applies computational techniques to understand and process images in pictures and videos. CV uses deep learning algorithms to analyze images for scenes, objects, faces, and other content in videos, photos and pictures in general.
+    CV is the subfield of AI that applies computational techniques to **understand and process images in pictures and videos**. CV uses deep learning algorithms to analyze images for scenes, objects, faces, and other content in videos, photos and pictures in general.
 
 
