@@ -109,7 +109,7 @@ Machine learning is used to support the other AI subfields, including natural la
 
 + **Natural Language Processing (NLP)**
 
-NLP is the subfield of AI that applies computational techniques to analyze and synthesize human natural language and speech.
+NLP is the subfield of AI that applies computational techniques to **analyze and synthesize human natural language and speech**.
 
 NLP is the study of the computational treatment of natural (human) language. It is the branch of science that deals with analyses of text, whether they are in emails, human speech, social media and more. It allows machines to understand human communication to extract different information that was so far, the exclusive privilege of humans.
 
