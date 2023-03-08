@@ -95,7 +95,7 @@ AI technologies are already in use in North America for border administration an
 Entertainment has been transformed by social networks and other platforms for sharing and browsing blogs, videos, and photos, which rely on techniques actively developed in Natural Language Processing, information retrieval, image processing, and machine learning. Some traditional sources of entertainment have also embraced AI to compose music, create stage performances, and even to **generate 3D scenes from natural language text**. AI will increasingly enable entertainment that is more interactive, personalized, and engaging.
 
 
-### Artificial Intelligence Fundamental Research Areas:
+## Artificial Intelligence Fundamental Research Areas:
 
 At a high level, the AI field is related to the following subfields of research:
 
@@ -107,5 +107,10 @@ This methodology is not seen as “proper” AI because it is more a mathematica
 
 Machine learning is used to support the other AI subfields, including natural language processing (NLP) and computer vision (CV).
 
++ **Natural Language Processing (NLP)**
+
+NLP is the subfield of AI that applies computational techniques to analyze and synthesize human natural language and speech.
+
+NLP is the study of the computational treatment of natural (human) language. It is the branch of science that deals with analyses of text, whether they are in emails, human speech, social media and more. It allows machines to understand human communication to extract different information that was so far, the exclusive privilege of humans.
 
 
