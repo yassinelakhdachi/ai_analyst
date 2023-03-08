@@ -125,4 +125,6 @@ NLP is found today in the following types of applications:
 - **Computer Vision (CV)**:
     CV is the subfield of AI that applies computational techniques to **understand and process images in pictures and videos**. CV uses deep learning algorithms to analyze images for scenes, objects, faces, and other content in videos, photos and pictures in general.
 
+- **Business Analytics**
 
+Business analytics solutions provide organizations with actionable insights for **smarter decisions** and better **business outcomes**.
