@@ -95,7 +95,7 @@ AI technologies are already in use in North America for border administration an
 Entertainment has been transformed by social networks and other platforms for sharing and browsing blogs, videos, and photos, which rely on techniques actively developed in Natural Language Processing, information retrieval, image processing, and machine learning. Some traditional sources of entertainment have also embraced AI to compose music, create stage performances, and even to **generate 3D scenes from natural language text**. AI will increasingly enable entertainment that is more interactive, personalized, and engaging.
 
 
-
+### Artificial Intelligence Fundamental Research Areas:
 
 
 
