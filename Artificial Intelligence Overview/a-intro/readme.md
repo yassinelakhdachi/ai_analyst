@@ -97,5 +97,15 @@ Entertainment has been transformed by social networks and other platforms for sh
 
 ### Artificial Intelligence Fundamental Research Areas:
 
+At a high level, the AI field is related to the following subfields of research:
+
++ **Machine Learning**
+
+Machine learning is a methodology of taking **large amounts** of data and finding a reasonably “optimal” mathematical solution that can be used to **predict results given future data**.
+
+This methodology is not seen as “proper” AI because it is more a mathematical and statistical technique or algorithm. However, this technique can produce impressive results when it is used to train computer systems that “learn” from  **training data**.
+
+Machine learning is used to support the other AI subfields, including natural language processing (NLP) and computer vision (CV).
+
 
 
