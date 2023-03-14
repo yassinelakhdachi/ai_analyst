@@ -21,4 +21,9 @@ There are different architectural examples of advanced analytics, according to t
 
 This example is for **large structured implementations** that support a large demand.
 
+This architecture is rigid, so** getting responses quickly can be difficult**. The data should be guaranteed to have quality and be secure. There should be some sort of control and governance in place to make sure that the data is seen only by the people that are authorized to access the data.
+
+In this architecture, data is pulled from transactional systems, such as a supply chain, points of sale, or finance systems. The data is extracted, transformed, and loaded (by using **ETL tools**) into a data warehouse, where the reporting data is stored. Then, reporting and analytics tools point to the reporting data to visualize the data through dashboards and graphs.
+
+
 
