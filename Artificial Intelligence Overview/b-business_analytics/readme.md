@@ -14,3 +14,11 @@ There are different approaches depending on the industry, the type of data that 
 The role of analytics in organizations has evolved from descriptive to predictive and prescriptive analytics. Data scientists and business analysts must understand the business problem and select appropriate data sources to solve it. Important data is often stored in silos across different business units and data scientists must search for opportunities and threats in all available sources. Organizations should select a meaningful problem, tackle it on a small scale for rapid results, and match infrastructure, technologies, and processes to their analytics maturity level and goals. Advanced technologies and processes should be put in place to support more complex analytics later.
 
 There are different architectural examples of advanced analytics, according to the type of data:
+
+### Example 1: Traditional Analytics
+
+![approaches](/Assets/traditional_analytics.png)
+
+This example is for **large structured implementations** that support a large demand.
+
+
