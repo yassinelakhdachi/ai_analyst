@@ -4,3 +4,6 @@ The goal of any analytics solution is to provide the organization with actionabl
 In summary, the analytics process uses tools and techniques to turn data into meaningful business insights:
 
 ![business insights](/Assets/business_insights.png)
+
+There are different approaches depending on the industry, the type of data that the organization is dealing with, and the type of results that you want to achieve. The following sections show three approaches of advanced analytics:
+![approaches](/Assets/Analytics_approachs.png)
