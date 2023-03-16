@@ -27,4 +27,6 @@ IBM and its Business Partners are building solutions for the benefit of individu
 
 Watson Health Imaging introduces solutions that analyze structured and unstructured patient, population, and medical research data that is in disconnected silos.
 
+## Watson Education Classroom:
+
 
