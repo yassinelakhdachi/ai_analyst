@@ -12,3 +12,4 @@ IBM Watson is available as:
 + A set of AI services on IBM Cloud
 + Industry solutions for a wide variety of industries
 + Tools, documentation, and samples for developers
+
