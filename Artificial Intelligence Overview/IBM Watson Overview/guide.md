@@ -13,3 +13,18 @@ IBM Watson is available as:
 + Industry solutions for a wide variety of industries
 + Tools, documentation, and samples for developers
 
+## IBM Watson AI Technology Applied to Industry, Business, and Science:
+### Watson Health:
+AI introduces new ways of working to improve approaches to care and well-being. IBM Watson Health systems understand, reason, and learn to translate information into knowledge and help drive more informed decision-making.
+
+Science is saturated with data. By making connections that might not have been previously considered, Watson can generate new insights that speed up matching subjects to clinical studies, identify promising targets for research, and encourage discovery.
+
+IBM and its Business Partners are building solutions for the benefit of individual patients and larger health populations as providers share and apply insights in real time.
+
+**The New York Genome Center (NYGC)** and IBM announced an initiative to accelerate a new era of genomic medicine by using IBM Watson AI technologies. To learn about the NYGC and IBM Watson Group collaboration to advance genomic medicine.
+
+**Imaging precision** improved as a result of technological advancements and breakthroughs in computer vision and related research. Those advancements led to exponential growth in medical imaging data with an increasing number of images per exam, a growing number of exams per population, and declining reimbursement per procedure, all leading to increasing demand for efficiency and quality.
+
+Watson Health Imaging introduces solutions that analyze structured and unstructured patient, population, and medical research data that is in disconnected silos.
+
+
