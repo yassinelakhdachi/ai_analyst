@@ -28,5 +28,13 @@ IBM and its Business Partners are building solutions for the benefit of individu
 Watson Health Imaging introduces solutions that analyze structured and unstructured patient, population, and medical research data that is in disconnected silos.
 
 ## Watson Education Classroom:
+BM Watson Education is focused on using AI to improve learning outcomes and implement solutions that help all students succeed. It uses AI technology to give teachers the tools that they need to be at their most effective and help learners perform at the top of their abilities.
+
+By using AI as an assistant in the classroom, the goal is to encourage lifelong learning where each person has the individualized tools that they need to succeed in school and beyond.
+
++ Watson Education helps teachers personalize the teaching and learning experience
++ thousands of students can now learn at their own pace by using one-on-one digital tutoring tools
+
+![education](/Assets/watson-education.png)
 
 
