@@ -27,7 +27,7 @@ IBM and its Business Partners are building solutions for the benefit of individu
 
 Watson Health Imaging introduces solutions that analyze structured and unstructured patient, population, and medical research data that is in disconnected silos.
 
-## Watson Education Classroom:
+### Watson Education Classroom:
 BM Watson Education is focused on using AI to improve learning outcomes and implement solutions that help all students succeed. It uses AI technology to give teachers the tools that they need to be at their most effective and help learners perform at the top of their abilities.
 
 By using AI as an assistant in the classroom, the goal is to encourage lifelong learning where each person has the individualized tools that they need to succeed in school and beyond.
@@ -37,7 +37,7 @@ By using AI as an assistant in the classroom, the goal is to encourage lifelong 
 
 ![education](/Assets/watson-education.png)
 
-## Watson Internet of Things:
+### Watson Internet of Things:
 
 The Internet of Things (IoT) is radically changing the way that businesses operate and people interact with the physical world.
 
@@ -57,6 +57,35 @@ AI technologies can provide advanced visualizations and interactive vulnerabilit
 
 The process of training Watson for Cybersecurity is by defining the language of security, annotating representative documents, and then manually making correlations between terms. Watson can then learn the language and connections that are needed to respond to questions from security professionals.
 
-For more information, see "AI Cybersecurity Solutions" at  [https://www.ibm.com/security/artificial-intelligence](https://www.ibm.com/security/artificial-intelligence) .
+For more information, see "AI Cybersecurity Solutions" at [https://www.ibm.com/security/artificial-intelligence](https://www.ibm.com/security/artificial-intelligence) .
+
+## IBM Watson Use Cases:
+
+This section presents two use cases showing organizations that successfully implemented AI solutions that are based on IBM Watson technology to enable new kinds of customer engagement, build better products and services, improve processes and operations, make data-driven decisions, and harness expertise.
+
+For more stories that tell how Watson is changing how business gets done, see [https://www.ibm.com/watson/ai-stories](https://www.ibm.com/watson/ai-stories)
+
++ ## Korean Air:
+    
+    With Watson, Korean Air is developing an intelligent detection system to improve operational efficiency and on-time performance. Korean Air worked with Watson as follows:
+    
+    - Watson ingested a variety of structured and unstructured data that is related to maintenance for the hundreds of planes in Korean Air’s fleet.
+    - Maintenance defect issues are reported by flight or cabin crews to ground operations.
+    - Maintenance employees access data from lookalike cases against technical guidelines.
+    - Watson assists to decide probable cause and recommends solutions so that they can be quickly addressed by technicians.
+    
+    For more information, see “Maintenance done 90% faster” at [https://www.ibm.com/watson/stories/airlines-with-watson](https://www.ibm.com/watson/stories/airlines-with-watson)
+    
++ ## Woodside Energy
+    
+    The following Watson APIs are used in this solution:
+    
+    - Natural Language Classifier
+    - Watson Assistant
+    - Discovery
+    
+    Watson imported Woodside’s entire 30-year base of 38,000 engineering documents and keeps learning with new experiences. Employees communicate with Watson in natural language. From the answers, employees can derive new insights and make better decisions.
+    
+    To learn more about the solution that Woodside Energy built with IBM Watson, see “Preserving institutional wisdom” at [https://www.ibm.com/watson/stories/woodside](https://www.ibm.com/watson/stories/woodside)
 
 
