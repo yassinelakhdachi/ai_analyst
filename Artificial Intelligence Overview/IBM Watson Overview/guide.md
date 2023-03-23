@@ -84,8 +84,10 @@ For more stories that tell how Watson is changing how business gets done, see [
     - Watson Assistant
     - Discovery
     
-    Watson imported Woodside’s entire 30-year base of 38,000 engineering documents and keeps learning with new experiences. Employees communicate with Watson in natural language. From the answers, employees can derive new insights and make better decisions.
+    Watson imported Woodside’s entire 30-year base of 38,000 engineering documents and keeps learning with new experiences. Employees communicate with Watson in natural language. From the answers, employees can derive new  and make better decisions.
     
     To learn more about the solution that Woodside Energy built with IBM Watson, see “Preserving institutional wisdom” at [https://www.ibm.com/watson/stories/woodside](https://www.ibm.com/watson/stories/woodside)
+    
+ 
 
 
